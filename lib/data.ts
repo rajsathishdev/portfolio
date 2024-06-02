@@ -42,21 +42,21 @@ export const experiencesData = [
     title: "Lead Developer",
     location: "Synergent Tech Solutions, Chennai",
     description:
-      "I have extensive experience developing web products using Laravel, FastAPI, MySQL, AWS CI/CD, Next.js, TypeScript, Tailwind and Docker, focusing on RESTful APIs. I collaborate closely with clients to define problem specifications, system design and create BDD specs to ensure accurate requirements implementation.",
+      "I possess extensive experience in developing web products utilizing Laravel, Express.js, MySQL, React, TypeScript, and Tailwind, with a primary focus on RESTful APIs. I collaborate closely with clients to define problem specifications, design systems, and ensure accurate implementation of requirements.",
     icon: React.createElement(FaReact),
     date: "Feb 2021 - Present",
   },
   {
     title: "Lead Developer",
     location: "Chennovate Solutions",
-    description:"I've led the development and deployment of web products, adhering to industry best practices, using Laravel, Angular, Flask, and React. This included scaling applications from handling 1,000 to 100,000 concurrent users, while ensuring API security through penetration testing and integrating Restful APIs securely.",
+    description:"I have led the development and deployment of web products, adhering to industry best practices, utilizing Laravel, Angular, and Python.",
     icon: React.createElement(FaPython),
     date: "Feb 2017 - Jan 2021",
   },
   {
     title: "Junior Developer",
     location: "Lapiz Digital Services, Vellore",
-    description:"As a junior developer, I crafted web and desktop applications using .NET Framework 4, collaborating with stakeholders to realize their vision. Through optimizing queries and creating workflow processing apps, I significantly enhanced performance and productivity, resulting in a 50% boost in report efficiency and increasing employee productivity by 200% while improving output quality by 120%. These efforts were recognized with the \"Best Employee of the Year\" award.",
+    description:"I crafted web and desktop applications using .NET Framework 4, collaborating with stakeholders to realize their vision. By creating workflow processing apps, I significantly enhanced performance and productivity, increasing employee productivity by 200% while improving output quality by 120%. These efforts were recognized with the 'Best Employee of the Year' award.",
     icon: React.createElement(SiVisualstudio),
     date: "Jan 2015 - Dec 2016",
   },
@@ -67,13 +67,13 @@ export const projectsData = [
     title: "Reltiva (Jupiter)",
     description:
       "The application includes features such as Timesheet, Expense, Invoice, and Credit Note, enabling customers to efficiently manage their Order to Cash flow.",
-    tags: ["Typescript", "Next.js", "Laravel", "FastAPI","Tailwind",  "MySQL", "AWS", "Docker"],
+    tags: ["Typescript", "React", "Express.js","Tailwind",  "MySQL", "AWS", "Docker"],
     imageUrl: reltivaImg,
   },
   {
     title: "Reltiva (TCM)",
     description: "The application handles tenant configuration, onboarding, subscriptions, and super admin roles for each client, while also offering analytics features.",
-    tags: ["Typescript", "Next.js", "FastAPI", "Tailwind", "MySQL", "AWS", "Docker"],
+    tags: ["Typescript", "React", "Laravel", "Tailwind", "MySQL", "AWS", "Docker"],
     imageUrl: reltivaImg,
   },
   {
@@ -85,7 +85,7 @@ export const projectsData = [
   {
     title: "Learning Experience Platform",
     description: "The application identifies role competencies, assesses employee skills, recommends courses, and tracks skill development.",
-    tags: [ "Codeigniter", "MySQL", "Flask", "AngularJS", "AWS"],
+    tags: [ "Codeigniter", "MySQL", "Python", "AngularJS", "AWS"],
     imageUrl: innoworkImg,
   },
   {
@@ -121,7 +121,7 @@ export const skillsData = [
   "REST API Design",
   "Project Managemet",
   "Node.js",
-  "Express JS",
+  "Express.js",
   "Git",
   "MySQL",
   "SQL Server",
